@@ -1,0 +1,5 @@
+value1 = input("Enter first number: ")
+value2 = input("Enter second number: ")
+value3 = input("Enter third number: ")
+print("All number are equal is ")
+print(value1 == value2 == value3)
